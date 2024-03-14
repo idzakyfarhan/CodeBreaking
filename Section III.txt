@@ -1,0 +1,61 @@
+
+
+19 A
+17 T
+17 T
+19 A
+14 C
+20 K
+23 P
+18 E
+19 A
+8  R
+12 L
+16 H
+19 A
+8  R
+3  B
+21 O
+8  R
+25 D 
+18 E
+14 C
+18 E
+6 M
+3 B
+18 E
+8 R
+15 S
+18 E
+22 V
+18 E
+11 N
+
+A 19
+B 3
+C 14
+D 25
+E 18
+F
+G
+H 16
+I
+J
+K 20
+L 12 .
+M 6 13
+N 11 14
+O 21 15
+P 23 16
+Q	17
+R 8 18
+S 15 19
+T 17 20
+U 	21
+V 22 .
+W	23
+X 	24
+Y	25
+Z	26
+
+Basically i found the first word that is "Attack" and the rest im just continuing the message and match it with the alphabet.
