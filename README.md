@@ -1,5 +1,4 @@
 # CodeBreaking
-
 The deciphering of secret messages in World War II was one of the main drivers of the computational
 age we currently live in. Cipher machines developed around this time were sophisticated enough that
 breaking the coding system by hand was no longer feasible.
@@ -26,8 +25,8 @@ independent of AI tools.
 Section I – Caesar Cipher (3 Marks)
 The Caesar cipher is a simple plain text substitution cipher, where you replace your message alphabets
 to the same alphabet but shifted by a constant offset.
--------------------------------
 [See the starting code provided in test_caesar.py and test_caesar_break.py]
+
 a) Use Python dictionaries to create a shifted directory of letters that will allow you to map your
 letters to shifted ones, so that you can use the encrypt and decrypt code provided in
 COMP2048 Theory of Computation S. S. Chandra
@@ -61,7 +60,7 @@ window positions or key. The window positions change as the cipher is used, so t
 positions are required to decrypt messages. Lastly, there is an override mapping mechanism especially
 outfitted for the Germany military called the plugboard. The board allows one to add additional
 mappings of individual letters to other letters even before the rotors are applied.
--------------------------------
+-------------------------------**
 [See the starting code provided in test_enigma_simple.py and test_enigma_break.py]
 Shakes the Horrible has decided to purchase a set of Enigma machines to ensure communication with
 his armed forces (consisting mainly of Spider Monkeys) is secure as possible.
@@ -92,7 +91,7 @@ scheme or device.
 Crack the following message intercepted by the United States navy that was addressed to a Japanese
 naval officer in 1941 to reveal its contents. It is actually doable by hand, but you may use Python as
 well.
--------------------------------
+-------------------------------**
 19 17 17 19 14 20 23 18 19 8 12 16 19 8 3 21 8 25 18 14 18 6 3 18 8 15 18 22 18 11
 References
 Copeland, B.J., 2004. Essential Turing: Classic Writings on Minds and Computers. Oxford University
