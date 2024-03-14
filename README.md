@@ -24,6 +24,7 @@ independent of AI tools.
 
 
 Section I – Caesar Cipher (3 Marks)
+
 The Caesar cipher is a simple plain text substitution cipher, where you replace your message alphabets
 to the same alphabet but shifted by a constant offset.
 [See the starting code provided in test_caesar.py and test_caesar_break.py]
